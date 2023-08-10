@@ -1,4 +1,4 @@
-//fork System Call (Wrong way)
+//fork System Call 
 
 //Stack section copy to both parent and child
 

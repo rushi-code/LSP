@@ -1,4 +1,4 @@
-//fork System Call (Wrong way)
+//fork System Call 
 
 //fun function get copied to both parent and child
 
